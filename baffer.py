@@ -130,4 +130,4 @@ class Baffer(object):
         return True
 
 
-Baffer("", 2000000000, 4, "человек").run()
+Baffer("vk1.a.kBC_OAPFfCA3SvW6nfJVKuviOeHTbEkmXM56P8Qk-u4LITLNb6_5g-Na2mMMxS81ySY_sjdj553z-Kr-tHr_GdXr6o7QhwAGP4UcR2CqT1o7jP9A5ubvR4CaHWsdeFYemrCjQSM9kv4Dgu7eo6LjQEGuoai_Fn0JUez2I70L-wI7X8cX9r3OEZpxCYjnVtau", 2000000000, 184, "человек").run()
